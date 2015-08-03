@@ -1,7 +1,7 @@
 # MakersBook01_WalkingRobot
 ==========================
 
-![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_WalkingRobot/master/img/main.JPG)  
+![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_WalkingRobot/master/img/main2.png)  
 
 소개
 --------------
